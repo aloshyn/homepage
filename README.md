@@ -1,2 +1,2 @@
-# homepage
-My very own personal website. Basically this is just a résumé.
+# Homepage
+My CV will live here just in few days
